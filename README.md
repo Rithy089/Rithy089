@@ -46,7 +46,7 @@ I'm a dedicated **Full-Stack System Builder** based in Cambodia 🇰🇭, passio
 | Platform | Link |
 |---|---|
 | 🐙 GitHub | [@Rithy089](https://github.com/Rithy089) |
-| 💼 LinkedIn | [linkedin.com/in/rithy-say-a59aa32a0](www.linkedin.com/in/rithy-say-a59aa32a0/) |
+| 💼 LinkedIn | [Rithy Say](https://www.linkedin.com/in/rithy-say-a59aa32a0/) |
 
 ---
 
