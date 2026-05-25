@@ -105,15 +105,21 @@ Freelance Workflow Systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rithy089&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithy089&layout=compact&theme=tokyonight" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Rithy089&show_icons=true&theme=github_dark&hide_border=true&border_radius=10" 
+  />
+
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithy089&layout=compact&theme=github_dark&hide_border=true&border_radius=10" 
+  />
 </p>
 
----
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithy089&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Rithy089&theme=github-dark&hide_border=true&border_radius=10" 
+  />
 </p>
 
 ---
